@@ -1,2 +1,2 @@
 # Final-Project
-Kasir Digital warung Mie pedas
+Kasir Digital Warung Mie pedas
